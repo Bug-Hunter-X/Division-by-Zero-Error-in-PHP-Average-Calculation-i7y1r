@@ -1,0 +1,1 @@
+This repository contains a PHP function designed to calculate the average of a numerical array.  The initial version contains a flaw: it does not properly handle non-numeric input, leading to a division by zero error. The solution demonstrates how to robustly handle this error and various edge cases, ensuring a more reliable and safe average calculation.
